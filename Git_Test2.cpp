@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "GitTest3.h"
+#include "Git_Test3.h"
 
 
 void TestGitkansuu(void){

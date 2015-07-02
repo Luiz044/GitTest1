@@ -1,16 +1,11 @@
 #include<stdio.h>
 
 int main(void){
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
-	printf("hello World");
+for(int i=0;i<10;i++){
+
+printf("hello World");
+
+}
 
 	return 0;
 }

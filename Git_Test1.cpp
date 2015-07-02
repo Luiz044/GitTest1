@@ -2,6 +2,15 @@
 
 int main(void){
 	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
+	printf("hello World");
 
 	return 0;
 }
